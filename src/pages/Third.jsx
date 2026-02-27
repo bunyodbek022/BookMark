@@ -1,4 +1,4 @@
-import ThirdImg from "../assets/Third.png";
+import ThirdImg from "../assets/third.png";
 
 const Third = () => {
     return (
